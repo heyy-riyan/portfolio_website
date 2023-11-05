@@ -13,6 +13,6 @@ and also:
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
 
-Link to a website by using Netlify: /
+Link to a website by using Netlify:https://mdabdulwaliportfolio.netlify.app/
 
 
